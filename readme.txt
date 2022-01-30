@@ -8,4 +8,4 @@ Salvar mais coisas
 
 espero que funcione
 
-watch some thing at https://www.youtube.com/
+watch something at https://www.youtube.com/
