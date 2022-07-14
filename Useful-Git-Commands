@@ -4,3 +4,8 @@ git add -A
 git commit -m 'Added my project'
 git remote add origin git@github.com:sammy/my-new-project.git
 git push -u -f origin master
+
+-------------- UPDATING FILES ON GITHUB:  ------------------------
+git add . || git add file1 file2 (review this!)
+git commit -m " message describing commit"
+git push nameOfBranch(if adding all changes this will be the url of repository)
