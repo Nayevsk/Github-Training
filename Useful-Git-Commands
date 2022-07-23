@@ -15,5 +15,8 @@ git add . || git add file1 file2 (review this!)
 git commit -m " message describing commit"
 git push nameOfBranch(if adding all changes this will be the url of repository)
 
+-------------- CHECKING GIT`S REMOTE URL  ------------------------
+git remote show origin (DETAILED)
+git config --get remote.origin.url (ORIGIN URL ONLY) ex: git@github.com:Nayevsk/MyProject.git
 ------------- OTHER COMMANDS  ------------------------
 git remote -v -> CHECK THE ORIGING of git repo
