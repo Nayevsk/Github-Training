@@ -20,3 +20,4 @@ git remote show origin (DETAILED)
 git config --get remote.origin.url (ORIGIN URL ONLY) ex: git@github.com:Nayevsk/MyProject.git
 ------------- OTHER COMMANDS  ------------------------
 git remote -v -> CHECK THE ORIGING of git repo
+remove .git folder on windows cmd -> rmdir /s /q .git (at .git folder location)
